@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title_standard">Standard</string>
+
+    <!-- Content descriptions for top bar -->
+    <string name="cd_menu">Open navigation menu</string>
+    <string name="cd_history">Open calculation history</string>
+    <string name="cd_keep_on_top">Keep on top</string>
+
+    <!-- History Panel -->
+    <string name="history_title">History</string>
+    <string name="history_empty">There\'s no history yet</string>
+    <string name="clear_history">Clear all history</string>
+
+    <!-- Memory row button labels -->
+    <string name="btn_mc">MC</string>
+    <string name="btn_mr">MR</string>
+    <string name="btn_m_plus">M+</string>
+    <string name="btn_m_minus">M−</string>
+    <string name="btn_ms">MS</string>
+    <string name="btn_m_view">M˅</string>
+
+    <!-- Memory accessibility -->
+    <string name="cd_mc">Clear all memory</string>
+    <string name="cd_mr">Memory recall</string>
+    <string name="cd_m_plus">Memory add</string>
+    <string name="cd_m_minus">Memory subtract</string>
+    <string name="cd_ms">Memory store</string>
+    <string name="cd_m_view">Memory view</string>
+
+    <!-- Calculator grid button labels -->
+    <string name="btn_percent">%</string>
+    <string name="btn_ce">CE</string>
+    <string name="btn_c">C</string>
+    <string name="btn_backspace">⌫</string>
+
+    <string name="btn_fraction">1/x</string>
+    <string name="btn_square">x²</string>
+    <string name="btn_sqrt">²√x</string>
+    <string name="btn_divide">÷</string>
+
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_multiply">×</string>
+
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_minus">−</string>
+
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_plus">+</string>
+
+    <string name="btn_negate">+/-</string>
+    <string name="btn_0">0</string>
+    <string name="btn_dot">.</string>
+    <string name="btn_equals">=</string>
+
+    <!-- Calculator accessibility descriptions -->
+    <string name="cd_percent">Percent</string>
+    <string name="cd_ce">Clear entry</string>
+    <string name="cd_c">Clear</string>
+    <string name="cd_backspace">Backspace</string>
+    <string name="cd_fraction">Reciprocal</string>
+    <string name="cd_square">Square</string>
+    <string name="cd_sqrt">Square root</string>
+    <string name="cd_divide">Divide</string>
+    <string name="cd_multiply">Multiply</string>
+    <string name="cd_minus">Minus</string>
+    <string name="cd_plus">Plus</string>
+    <string name="cd_equals">Equals</string>
+    <string name="cd_negate">Negate</string>
+    <string name="cd_dot">Decimal point</string>
+
+    <!-- Error Messages -->
+    <string name="error_divide_by_zero">Cannot divide by zero</string>
+    <string name="error_invalid_input">Invalid input</string>
+    <string name="error_overflow">Overflow</string>
+</resources>

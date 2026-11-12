@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="win11_light_bg">#F3F3F3</color>
+    <color name="win11_dark_bg">#202020</color>
+    <color name="win11_accent_blue">#0067C0</color>
+</resources>
